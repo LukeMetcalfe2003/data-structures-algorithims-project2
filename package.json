@@ -1,0 +1,11 @@
+{
+  "name": "datastructure-algorithims-project2",
+  "version": "1.0.0",
+  "description": "Project 2 for Datastructures and Algorithims",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Metcalfe",
+  "license": "MIT"
+}
